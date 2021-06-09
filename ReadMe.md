@@ -34,7 +34,7 @@ program.
 - Éldektálás
 - Kép szegmentálás
 - Objektum detektálás
-- Pédák
+- Pédák [[Baktérium számlás képszegmentálással]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/03_Images_Example_2_.ipynb)
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
 
 
