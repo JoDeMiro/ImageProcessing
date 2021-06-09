@@ -42,5 +42,7 @@ program.
 
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/2DMatixScale.gif?raw=true"></img>
 
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection1.png?raw=true"></img>
+
 
 
