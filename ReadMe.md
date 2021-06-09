@@ -33,7 +33,7 @@ program.
 - Szűrők és konvolúciók [[Szűrők és konvolúciók]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/02_Images_Filtering.ipynb)
 - Éldektálás
 - Kép szegmentálás
-- Objektum detektálás
+- Objektum detektálás [[YOLOv3]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/15_Image_Object_Detection_YOLOv3.ipynb)
 - Pédák [[Baktérium számlás képszegmentálással]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/03_Images_Example_2_.ipynb)
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
 
