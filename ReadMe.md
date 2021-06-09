@@ -47,6 +47,6 @@ program.
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection1.png?raw=true"></img>
 
 
-<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_1.png?raw=true" width="502" height="502"></img>
-<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_2.png?raw=true" width="502" height="502"></img>
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_1.png?raw=true" width="500" height="500"></img>
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_2.png?raw=true" width="500" height="500"></img>
 
