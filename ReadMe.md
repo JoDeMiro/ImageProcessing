@@ -39,7 +39,7 @@ program.
 
 
 
-<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/2DMatixScale.gif?raw=true"></img>
+<img src="https://github.com/JoDeMiro/ImageProcessing/images/blob/main/2DMatixScale.gif?raw=true"></img>
 
 
 
