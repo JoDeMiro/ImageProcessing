@@ -29,12 +29,14 @@ program.
 
 - Alapok
 - Képek felépítése, típusok, több dimenziós tömbök
+- Mátrix transzformációk [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/10_Image_Matirx_transzformaciok_1.ipynb)
 - Szűrők és konvolúciók
 - Éldektálás
 - Kép szegmentálás
 - Objektum detektálás
 - Pédák
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
+
 
 
 
