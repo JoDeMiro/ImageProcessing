@@ -25,3 +25,12 @@ kódoptimalizálás. HDR eljárások. Mintapéldák, esettanulmányok.
 A program használatához nem szükséges semmit sem telepíteni.
 A fenti 'Google Colab' ikonra kattintva a Google Colab oldalán automatikusan megnyilik a
 program.
+
+
+Alapok
+Képek felépítése, típusok, több dimenziós tömbök
+Szűrők és konvolúciók
+Éldektálás
+Kép szegmentálás
+Objektum detektálás
+
