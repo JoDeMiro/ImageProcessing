@@ -18,3 +18,10 @@ eljárások, fuzzy, neurális, genetikus, anytime technikák. Zajelnyomás, info
 élkeresés, csúcspontdetektálás, objektumkeresés és felismerés, gépi látás, számítógépes
 modellezés, 3D rekonstrukció, adattömörítés, kamerakalibráció, valósidejű feldolgozás,
 kódoptimalizálás. HDR eljárások. Mintapéldák, esettanulmányok.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
+
+# Jupyter Notebook
+A program használatához nem szükséges semmit sem telepíteni.
+A fenti 'Google Colab' ikonra kattintva a Google Colab oldalán automatikusan megnyilik a
+program.
