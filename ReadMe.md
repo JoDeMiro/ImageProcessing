@@ -47,4 +47,13 @@ program.
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection1.png?raw=true"></img>
 
 
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_1.png?raw=true"></img>
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_2.png?raw=true"></img>
+
+
+
+
+
+
+
 
