@@ -27,10 +27,11 @@ A fenti 'Google Colab' ikonra kattintva a Google Colab oldalán automatikusan me
 program.
 
 
-Alapok
-Képek felépítése, típusok, több dimenziós tömbök
-Szűrők és konvolúciók
-Éldektálás
-Kép szegmentálás
-Objektum detektálás
-
+- Alapok
+- Képek felépítése, típusok, több dimenziós tömbök
+- Szűrők és konvolúciók
+- Éldektálás
+- Kép szegmentálás
+- Objektum detektálás
+- Pédák
+- Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
