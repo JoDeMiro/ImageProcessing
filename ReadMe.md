@@ -35,3 +35,11 @@ program.
 - Objektum detektálás
 - Pédák
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
+
+
+
+
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/2DMatixScale.gif?raw=true"></img>
+
+
+
