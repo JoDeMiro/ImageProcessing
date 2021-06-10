@@ -36,6 +36,7 @@ program.
 - Kép szegmentálás
 - Objektum detektálás [[YOLOv3]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/15_Image_Object_Detection_YOLOv3.ipynb)
 - Arc és kulcspont detektálás [[MTCNN]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/16_Image_Face_Detection_1.ipynb)
+- Arc és 48 kulcspont azonosítás [[Dlib]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/17_Image_Face_Landmark_Detection_1.ipynb)
 - Pédák [[Baktérium számlás képszegmentálással]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/03_Images_Example_2_.ipynb)
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
 
