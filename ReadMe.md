@@ -55,5 +55,5 @@ program.
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_1.png?raw=true" width="500" height="500"></img>
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_2.png?raw=true" width="500" height="500"></img>
 
-<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/blur1.png?raw=true"></img>
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/blur_1.png?raw=true"></img>
 
