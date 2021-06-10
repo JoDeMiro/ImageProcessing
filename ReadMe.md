@@ -51,21 +51,22 @@ program.
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/blur_1.png?raw=true"></img>
 
 
+<a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/16_Image_Face_Detection_1.ipynb" target="_blank">
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_1.png?raw=true" width="500" height="500"></img>
+</a>
+<a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/16_Image_Face_Detection_1.ipynb" target="_blank">
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_2.png?raw=true" width="500" height="500"></img>
+</a>
 
+<a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/17_Image_Face_Landmark_Detection_1.ipynb" target="_blank">
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_1.png?raw=true" width="500" height="500"></img>
-<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_2.png?raw=true" width="500" height="500"></img>
-
+</a>
 <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/17_Image_Face_Landmark_Detection_1.ipynb" target="_blank">
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_2.png?raw=true" width="500" height="500"></img>
 </a>
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
-[go](http://stackoverflow.com){:target="_blank"}
 
-[<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_2.png?raw=true" width="500" height="500"></img>](http://stackoverflow.com){:target="_blank"}
 
 
 
