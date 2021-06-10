@@ -61,7 +61,11 @@ program.
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_2.png?raw=true" width="500" height="500"></img>
 </a>
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
+[go](http://stackoverflow.com){:target="_blank"}
+
+[<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_landmark_2.png?raw=true" width="500" height="500"></img>](http://stackoverflow.com){:target="_blank"}
 
 
 
