@@ -33,6 +33,7 @@ program.
 - 2D Konvolúciók [[2D Konvolúciók]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/05_Image_Convolution_1.ipynb)
 - Szűrők és konvolúciók [[Szűrők és konvolúciók]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/02_Images_Filtering.ipynb)
 - Automatikus színkorrekciók [[Automatikus színkorrekciók]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/04_Image_Color_manipulation.ipynb)
+- Kép additivitás [[Kép additivitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/06_Image_Compositions.ipynb)
 - Éldektálás
 - Kép szegmentálás
 - Objektum detektálás [[YOLOv3]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/15_Image_Object_Detection_YOLOv3.ipynb)
@@ -40,9 +41,6 @@ program.
 - Arc és 48 kulcspont azonosítás [[Dlib]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/17_Image_Face_Landmark_Detection_1.ipynb)
 - Pédák [[Baktérium számlás képszegmentálással]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/03_Images_Example_2_.ipynb)
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
-
-
-https://github.com/JoDeMiro/ImageProcessing/blob/main/
 
 
 
