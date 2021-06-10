@@ -77,17 +77,6 @@ program.
 
 
 
-<div valign="center">
-  <p align="center">
-    <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/97_Integrálszámítás_Numpy_könyvtárral.ipynb" target="_blank">
-      <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/integral_1.png?raw=true"></img>
-    </a>
-  </p>
-</div>
-
-
-
-
 
 
 
