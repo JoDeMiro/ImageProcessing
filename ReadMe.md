@@ -48,8 +48,9 @@ program.
 
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection1.png?raw=true"></img>
 
+<a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/02_Images_Filtering.ipynb" target="_blank">
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/blur_1.png?raw=true"></img>
-
+</a>
 
 <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/16_Image_Face_Detection_1.ipynb" target="_blank">
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/face_detection_1.png?raw=true" width="500" height="500"></img>
