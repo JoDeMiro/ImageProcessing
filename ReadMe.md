@@ -41,6 +41,8 @@ program.
 - Arc és 48 kulcspont azonosítás [[Dlib]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/17_Image_Face_Landmark_Detection_1.ipynb)
 - Arc maszk azonosítás [[PyTorch ResNet101]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/18_Image_Mask_Detection_with_ResNet.ipynb)
 - Segédletek [[Integrálszámítás NumPy könyvtárral]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/97_Integrálszámítás_Numpy_könyvtárral.ipynb)
+- Segédletek [[Lineáris algebra - Mátrixok NumPy könyvtárral]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/98_Lineáris_Algebra_Mátrixok.ipynb)
+- Segédletek [[Lineáris algebra - Vektorok NumPy könyvtárral]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/99_Lineáris_Algebra_Vektorok.ipynb)
 - Pédák [[Baktérium számlás képszegmentálással]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/03_Images_Example_2_.ipynb)
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
 
