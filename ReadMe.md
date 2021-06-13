@@ -82,6 +82,17 @@ program.
 </div>
 
 
+<a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/02_Images_Filtering.ipynb" target="_blank">
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/Convolution1.png?raw=true"></img>
+</a>
+<a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/02_Images_Filtering.ipynb" target="_blank">
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/Convolution2.png?raw=true"></img>
+</a>
+<a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/02_Images_Filtering.ipynb" target="_blank">
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection1.png?raw=true"></img>
+</a>
+
+
 <div valign="center">
   <p align="center">&nbsp;
     <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/97_Integrálszámítás_Numpy_könyvtárral.ipynb" target="_blank">
