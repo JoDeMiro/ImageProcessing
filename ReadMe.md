@@ -78,6 +78,16 @@ program.
 </a>
 
 
+
+<div valign="center">
+  <p align="center">&nbsp;
+    <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/18_Image_Mask_Detection_with_ResNet.ipynb" target="_blank">
+      <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/MaskDetection1.png?raw=true"></img>
+    </a>
+  </p>
+</div>
+
+
 <div valign="center">
   <p align="center">&nbsp;
     <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/97_Integrálszámítás_Numpy_könyvtárral.ipynb" target="_blank">
