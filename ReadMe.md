@@ -39,7 +39,7 @@ program.
 - Objektum detektálás [[YOLOv3]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/15_Image_Object_Detection_YOLOv3.ipynb)
 - Arc és kulcspont detektálás [[MTCNN]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/16_Image_Face_Detection_1.ipynb)
 - Arc és 48 kulcspont azonosítás [[Dlib]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/17_Image_Face_Landmark_Detection_1.ipynb)
-- Arc maszk azonosítás azonosítás [[PyTorch ResNet101]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/18_Image_Mask_Detection_with_ResNet.ipynb)
+- Arc maszk azonosítás [[PyTorch ResNet101]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/18_Image_Mask_Detection_with_ResNet.ipynb)
 - Segédletek [[Integrálszámítás NumPy könyvtárral]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/97_Integrálszámítás_Numpy_könyvtárral.ipynb)
 - Pédák [[Baktérium számlás képszegmentálással]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/03_Images_Example_2_.ipynb)
 - Példák [![megnyitás]](https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master)
@@ -49,7 +49,7 @@ program.
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/2DMatixScale.gif?raw=true"></img>
 </a>
 
-<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection2.png?raw=true"></img>
+<img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection1.png?raw=true"></img>
 
 <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/02_Images_Filtering.ipynb" target="_blank">
 <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/blur_1.png?raw=true"></img>
@@ -103,6 +103,16 @@ program.
     </a>
   </p>
 </div>
+
+
+<div valign="center">
+  <p align="center">&nbsp;
+    <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/97_Integrálszámítás_Numpy_könyvtárral.ipynb" target="_blank">
+      <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/integral_1.png?raw=true"></img>
+    </a>
+  </p>
+</div>
+
 
 
 
