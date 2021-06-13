@@ -110,7 +110,15 @@ program.
 <div valign="center">
   <p align="center">&nbsp;
     <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/97_Integrálszámítás_Numpy_könyvtárral.ipynb" target="_blank">
-      <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/integral_1.png?raw=true"></img>
+      <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/EdgeDetection3.png?raw=true"></img>
+    </a>
+  </p>
+</div>
+
+<div valign="center">
+  <p align="center">&nbsp;
+    <a href="https://colab.research.google.com/github/JoDeMiro/ImageProcessing/blob/master/03_Images_Example_2_.ipynb" target="_blank">
+      <img src="https://github.com/JoDeMiro/ImageProcessing/blob/main/images/BacteriaDetection1.png?raw=true"></img>
     </a>
   </p>
 </div>
