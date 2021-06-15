@@ -12,3 +12,7 @@ Ajánlott irodalom:
 vol. 2, no. 4, pp. 283–304, 2010. 
 
 
+
+https://en.wikipedia.org/wiki/Harris_Corner_Detector
+
+
