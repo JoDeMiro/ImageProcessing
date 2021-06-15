@@ -17,4 +17,6 @@ https://en.wikipedia.org/wiki/Harris_Corner_Detector
 
 http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/An_Introduction_to_Image_Mosaicing.htm
 
+https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3f6
+
 
