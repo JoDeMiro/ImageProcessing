@@ -15,4 +15,6 @@ vol. 2, no. 4, pp. 283–304, 2010.
 
 https://en.wikipedia.org/wiki/Harris_Corner_Detector
 
+http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/An_Introduction_to_Image_Mosaicing.htm
+
 
