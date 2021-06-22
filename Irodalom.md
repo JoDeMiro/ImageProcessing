@@ -29,3 +29,6 @@ https://www.youtube.com/watch?v=y7KLbd7n75g&ab_channel=SteveBrunton
 
 Image filtering using Fourier transform in Python
 https://youtu.be/9mLeVn8xzMw?t=26
+
+FFT - Bins and windowing function
+https://youtu.be/FjmwwDHT98c?t=1586
