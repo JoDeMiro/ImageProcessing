@@ -21,4 +21,11 @@ https://medium.com/data-breach/introduction-to-harris-corner-detector-32a88850b3
 
 https://muthu.co/harris-corner-detector-implementation-in-python/
 
+https://youtu.be/3gAZ0U66AEA?t=107
 
+Spectrogram Examples [Python]
+https://www.youtube.com/watch?v=TJGlxdW7Fb4&ab_channel=SteveBrunton
+
+
+Wavelets and Multiresolution Analysis
+https://www.youtube.com/watch?v=y7KLbd7n75g&ab_channel=SteveBrunton
